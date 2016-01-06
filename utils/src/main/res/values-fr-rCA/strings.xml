@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> seconde</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> secondes</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> minute</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> minutes</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> heure</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> heures</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> jour</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> jours</item>
+    </plurals>
+</resources>

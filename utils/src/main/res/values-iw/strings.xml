@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="two"><xliff:g id="COUNT">%d</xliff:g> שניות</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> שניות</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> שניות</item>
+        <item quantity="one">שנייה אחת</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="two"><xliff:g id="COUNT">%d</xliff:g> דקות</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> דקות</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> דקות</item>
+        <item quantity="one">דקה אחת</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="two"><xliff:g id="COUNT">%d</xliff:g> שעות</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> שעות</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> שעות</item>
+        <item quantity="one">שעה אחת</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="two"><xliff:g id="COUNT">%d</xliff:g> ימים</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> ימים</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ימים</item>
+        <item quantity="one">שעה יום</item>
+    </plurals>
+</resources>

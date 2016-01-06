@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> سیکنڈ</item>
+        <item quantity="one">1 سیکنڈ</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> منٹ</item>
+        <item quantity="one">1 منٹ</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> گھنٹے</item>
+        <item quantity="one">1 گھنٹہ</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> دن</item>
+        <item quantity="one">1 دن</item>
+    </plurals>
+</resources>

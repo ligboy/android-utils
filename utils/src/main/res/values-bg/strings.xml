@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> часа</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> дни</item>
+        <item quantity="one">1 ден</item>
+    </plurals>
+</resources>

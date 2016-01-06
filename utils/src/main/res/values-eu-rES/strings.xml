@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> segundo</item>
+        <item quantity="one">Segundo bat</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> minutu</item>
+        <item quantity="one">Minutu bat</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ordu</item>
+        <item quantity="one">Ordubete</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> egun</item>
+        <item quantity="one">Egun bat</item>
+    </plurals>
+</resources>

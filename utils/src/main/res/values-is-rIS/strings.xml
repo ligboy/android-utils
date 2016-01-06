@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> sekúnda</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> sekúndur</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> mínúta</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> mínútur</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> klukkustund</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> klukkustundir</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> dagur</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> dagar</item>
+    </plurals>
+</resources>

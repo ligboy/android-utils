@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ሰከንዶች</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ሰከንዶች</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ደቂቃዎች</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ደቂቃዎች</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ሰዓቶች</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ሰዓቶች</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ቀን</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ቀኖች</item>
+    </plurals>
+</resources>

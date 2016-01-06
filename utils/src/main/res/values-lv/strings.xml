@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="zero"><xliff:g id="COUNT">%d</xliff:g> sekunžu</item>
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> sekundes</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> sekundes</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="zero"><xliff:g id="COUNT">%d</xliff:g> minūšu</item>
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> minūte</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> minūtes</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="zero"><xliff:g id="COUNT">%d</xliff:g> stundu</item>
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> stunda</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> stundas</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="zero"><xliff:g id="COUNT">%d</xliff:g> dienu</item>
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> diena</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> dienas</item>
+    </plurals>
+</resources>

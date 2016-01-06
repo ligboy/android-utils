@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> секунда</item>
+        <item quantity="few"><xliff:g id="COUNT">%d</xliff:g> секунды</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> секунд</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> секунд</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> минута</item>
+        <item quantity="few"><xliff:g id="COUNT">%d</xliff:g> минуты</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> минут</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> минут</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> час</item>
+        <item quantity="few"><xliff:g id="COUNT">%d</xliff:g> часа</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> часов</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> часов</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> дн.</item>
+        <item quantity="few"><xliff:g id="COUNT">%d</xliff:g> дн.</item>
+        <item quantity="many"><xliff:g id="COUNT">%d</xliff:g> дн.</item>
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> дн.</item>
+    </plurals>
+</resources>

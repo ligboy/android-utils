@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <plurals name="duration_seconds" formatted="false">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> amasekhondi</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">1 amasekhondi</item>
+    </plurals>
+    <plurals name="duration_minutes" formatted="false">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> amaminithi</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">1 amaminithi</item>
+    </plurals>
+    <plurals name="duration_hours" formatted="false">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> amahora</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">1 amahora</item>
+    </plurals>
+    <plurals name="duration_days" formatted="false">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> izinsuku</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">1 usuku</item>
+    </plurals>
+</resources>

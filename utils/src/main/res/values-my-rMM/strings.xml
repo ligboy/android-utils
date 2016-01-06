@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <plurals name="duration_seconds">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> စက္ကန့်</item>
+        <item quantity="one">1 စက္ကန့်</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> မိနစ်</item>
+        <item quantity="one">1 မိနစ်</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> နာရီ</item>
+        <item quantity="one"> 1 နာရီ</item>
+    </plurals>
+    <plurals name="duration_days">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ရက်များ</item>
+        <item quantity="one"> 1 ရက်</item>
+    </plurals>
+</resources>
